@@ -1,6 +1,6 @@
 # *How to run the program* #
 
-This program was created using python in a google colab notebook. The file [ edit_distance.ipynb ] can be ran online wihtout the need of installation or dependencies through google colab at: https://colab.research.google.com/drive/1LHN0bzyPX3nxrYv2rOlnpT7csTObfXJK?usp=sharing
+This program was created using python in a google colab notebook. The file [ edit_distance.ipynb ] can be ran online wihtout the need of installation or dependencies through google colab.
 
 # *Program Discription* #
 
